@@ -463,7 +463,7 @@ const App = () => {
       {/* Sidebar */}
       <div className="w-64 bg-white shadow-md">
         <div className="p-4 flex items-center space-x-2 border-b">
-          <Shield className="h-8 w-8 text-blue-600" />
+          <img src="/logo.png" alt="Logo" className="h-8 w-8" />
           <span className="text-xl font-bold text-gray-800">ScamShield</span>
         </div>
         
